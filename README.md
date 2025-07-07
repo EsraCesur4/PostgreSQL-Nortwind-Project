@@ -10,7 +10,7 @@ The queries are grouped into three levels:
 🟡 Level 2 – Intermediate analysis involving subqueries, CTEs, and window functions.  
 🔴 Level 3 – Advanced analytics including time series, ranking, and trend detection.  
 
-## ✅ Sample Questions  
+## Sample Questions  
 ### 🟢 Level 1 – Basics  
 - Find top 3 employees with the most product sales
 - Calculate monthly sales trends  
